@@ -3,13 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: my learn
+name: 当你的世界有风吹过
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 随心所记，安心且方便
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+# avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/21051104?s=96&v=4
 
 #
 # Flags below are optional
