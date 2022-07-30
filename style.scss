@@ -245,12 +245,13 @@ nav {
   // padding-bottom: 2em;
   padding-bottom: 0.5em;
   // border-bottom: 1px solid $lightGray;
+  border-bottom: none;
+  line-height: 1.5em;
 }
 
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
-  line-height: 1.5em;
 }
 
 .post {
